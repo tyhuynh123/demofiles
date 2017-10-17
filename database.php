@@ -1,7 +1,7 @@
 <?php
 $server = 'localhost';
 $username = 'newuser';
-$password = 'R$gina1!';
+$password = 'demosite';
 $database = 'demo';
 
 try{
