@@ -39,7 +39,7 @@ endif;
 <body>
 
         <div class="header">
-        <font size="+10">Kari Photo App</font>
+        <font size="+10">Tybo Photo App</font>
         </div>
 
         <?php if(!empty($message)): ?>
